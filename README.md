@@ -7,11 +7,11 @@ I'm a Computer Engineering student passionate about learning how software works 
 - Linux
 - Git & GitHub
 - Networking
+## 💻 Tech Stack
 
-### 🎯 Interested In
-- Full stack
-- System Programming
-- Open Source
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ---
 ## 📊 GitHub Stats
 
@@ -33,6 +33,9 @@ I'm a Computer Engineering student passionate about learning how software works 
 
 </div>
 ---
-
+### 🎯 Interested In
+- Full stack
+- System Programming
+- Open Source
 ### 📚 Current Goal
 Building practical projects and continuously improving my programming skills.
