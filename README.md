@@ -1,7 +1,17 @@
-## Hi there 👋 I'm Amirali
+# Hi there 👋 I'm Amirali
 
-💻 Computer Engineering Student
+I'm a Computer Engineering student passionate about learning how software works under the hood.
 
-🐍 Currently learning Python, Linux and Git
+### 🚀 Currently Learning
+- Python
+- Linux
+- Git & GitHub
+- Networking
 
-🚀 Interested in Backend Development and Open Source
+### 🎯 Interested In
+- Full stack
+- System Programming
+- Open Source
+
+### 📚 Current Goal
+Building practical projects and continuously improving my programming skills.
