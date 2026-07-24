@@ -7,12 +7,10 @@ I'm a Computer Engineering student passionate about learning how software works 
 - Linux
 - Git & GitHub
 - Networking
-## 💻 Tech Stack
+## 💻 Tech Stack & My Activity
+<img src="https://skillicons.dev/icons?i=python,html,git,github,linux,bash," />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aamiroo&theme=react-dark&hide_border=true"/>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -23,7 +21,7 @@ I'm a Computer Engineering student passionate about learning how software works 
 
 </div>
 
----
+
 
 ## 🔥 GitHub Streak
 
@@ -32,7 +30,7 @@ I'm a Computer Engineering student passionate about learning how software works 
   <img src="https://streak-stats.demolab.com?user=aamiroo&theme=radical&hide_border=true" />
 
 </div>
----
+
 ### 🎯 Interested In
 - Full stack
 - System Programming
