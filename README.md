@@ -2,16 +2,53 @@
 
 I'm a Computer Engineering student passionate about learning how software works under the hood.
 
-### 🚀 Currently Learning
-- Python
-- Linux
-- Git & GitHub
-- Networking
-## 💻 Tech Stack & My Activity
-<img src="https://skillicons.dev/icons?i=python,html,git,github,linux,bash," />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aamiroo&theme=react-dark&hide_border=true"/>
+I enjoy building practical projects, working with Linux, and understanding how software interacts with systems and networks.
 
-## 📊 GitHub Stats
+### 🚀 Currently Learning
+
+* Python
+* Linux
+* Git & GitHub
+* Networking
+* Bash Scripting
+
+### 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,html,git,github,linux,bash,docker,fastapi,sqlite,mysql,mariadb" />
+
+**Also working with:** Metabase
+
+### 🔨 Featured Projects
+
+* 🐍 **Python Projects** — Practical Python projects and experiments
+* 🤖 **Telegram Bots** — Automation and bot development with Python
+* 🌐 **Networking Projects** — Socket programming and network experiments
+* 🐧 **Linux Labs** — Linux administration, scripting, and system experiments
+
+### 🗺️ Learning Path
+
+```text
+Python
+   ↓
+Backend Development
+   ↓
+Linux & Bash
+   ↓
+Networking
+   ↓
+System Programming
+```
+
+### 🎯 Interested In
+
+* Full-Stack Development
+* Backend Development
+* System Programming
+* Linux
+* Networking
+* Open Source
+
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -21,9 +58,7 @@ I'm a Computer Engineering student passionate about learning how software works 
 
 </div>
 
-
-
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <div align="center">
 
@@ -31,9 +66,14 @@ I'm a Computer Engineering student passionate about learning how software works 
 
 </div>
 
-### 🎯 Interested In
-- Full stack
-- System Programming
-- Open Source
+### 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aamiroo&theme=react-dark&hide_border=true" />
+
 ### 📚 Current Goal
-Building practical projects and continuously improving my programming skills.
+
+Building practical projects, strengthening my fundamentals, and continuously improving my programming skills.
+
+> `Understand the system, don't just use it.`
+
+---
