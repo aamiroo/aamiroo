@@ -1,29 +1,29 @@
 # Hi there 👋 I'm Amirali
 
-I'm a Computer Engineering student passionate about learning how software works under the hood.
+I'm a Computer Engineering student interested in **Backend Development, Linux, Networking, and Systems Programming**.
 
-I enjoy building practical projects, working with Linux, and understanding how software interacts with systems and networks.
+I enjoy understanding how software works under the hood — from APIs and databases to operating systems, networking, and system-level concepts.
 
-### 🚀 Currently Learning
+### 🧭 What I'm Focused On
 
-* Python
-* Linux
-* Git & GitHub
-* Networking
-* Bash Scripting
+* 🐍 Python & Backend Development
+* 🐧 Linux & Bash
+* 🌐 Networking & Socket Programming
+* 🗄️ SQL & Databases
+* 🐳 Docker
+* 🔧 Systems & Infrastructure
 
 ### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,html,git,github,linux,bash,docker,fastapi,sqlite,mysql,mariadb" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,html,git,github,linux,bash,docker,sqlite,mysql,mariadb" />
 
-**Also working with:** Metabase
+**Also working with:** Metabase, REST APIs, WebSockets
 
-### 🔨 Featured Projects
+### 🚀 Featured Projects
 
-* 🐍 **Python Projects** — Practical Python projects and experiments
-* 🤖 **Telegram Bots** — Automation and bot development with Python
-* 🌐 **Networking Projects** — Socket programming and network experiments
-* 🐧 **Linux Labs** — Linux administration, scripting, and system experiments
+* 🛠️ **SourcesList** — A web-based APT sources.list and repository configuration generator built with FastAPI.
+* 🤖 **Telegram Bot** — A Python automation bot with SQLite and scheduled tasks.
+* 🌐 **Linux & Networking Lab** — Hands-on experiments and notes covering Linux administration, Bash, networking, and system concepts.
 
 ### 🗺️ Learning Path
 
@@ -36,17 +36,17 @@ Linux & Bash
    ↓
 Networking
    ↓
-System Programming
+Systems Programming
 ```
 
-### 🎯 Interested In
+### 🎯 Areas of Interest
 
-* Full-Stack Development
 * Backend Development
-* System Programming
-* Linux
+* Linux & Systems
 * Networking
+* Infrastructure
 * Open Source
+* Software Architecture
 
 ### 📊 GitHub Stats
 
@@ -72,7 +72,7 @@ System Programming
 
 ### 📚 Current Goal
 
-Building practical projects, strengthening my fundamentals, and continuously improving my programming skills.
+Build practical software, strengthen my fundamentals, and gradually move deeper into **Linux, Networking, Backend, and Systems Programming**.
 
 > `Understand the system, don't just use it.`
 
