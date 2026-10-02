@@ -4,6 +4,15 @@ I'm a Computer Engineering student interested in **Backend Development, Linux, N
 
 I enjoy understanding how software works under the hood — from APIs and databases to operating systems, networking, and system-level concepts.
 
+### 🌐 About Me
+
+> `Amirali — Junior Backend Developer`
+
+I build backend projects with **Python & FastAPI** and enjoy working with **Linux, Networking, APIs, Databases, and Systems**.
+
+🔗 **[Visit my Portfolio →](https://aamiroo.github.io/AboutMe/)**
+
+
 ### 🧭 What I'm Focused On
 
 * 🐍 Python & Backend Development
