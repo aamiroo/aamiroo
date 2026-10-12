@@ -1,88 +1,101 @@
-# Hi there 👋 I'm Amirali
-
-I'm a Computer Engineering student interested in **Backend Development, Linux, Networking, and Systems Programming**.
-
-I enjoy understanding how software works under the hood — from APIs and databases to operating systems, networking, and system-level concepts.
-
-### 🌐 About Me
-
-> `Amirali — Junior Backend Developer`
-
-I build backend projects with **Python & FastAPI** and enjoy working with **Linux, Networking, APIs, Databases, and Systems**.
-
-🔗 **[Visit my Portfolio →](https://aamiroo.github.io/AboutMe/)**
-
-
-### 🧭 What I'm Focused On
-
-* 🐍 Python & Backend Development
-* 🐧 Linux & Bash
-* 🌐 Networking & Socket Programming
-* 🗄️ SQL & Databases
-* 🐳 Docker
-* 🔧 Systems & Infrastructure
-
-### 💻 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,html,git,github,linux,bash,docker,sqlite,mysql,mariadb" />
-
-**Also working with:** Metabase, REST APIs, WebSockets
-
-### 🚀 Featured Projects
-
-* 🛠️ **SourcesList** — A web-based APT sources.list and repository configuration generator built with FastAPI.
-* 🤖 **Telegram Bot** — A Python automation bot with SQLite and scheduled tasks.
-* 🌐 **Linux & Networking Lab** — Hands-on experiments and notes covering Linux administration, Bash, networking, and system concepts.
-
-### 🗺️ Learning Path
-
-```text
-Python
-   ↓
-Backend Development
-   ↓
-Linux & Bash
-   ↓
-Networking
-   ↓
-Systems Programming
-```
-
-### 🎯 Areas of Interest
-
-* Backend Development
-* Linux & Systems
-* Networking
-* Infrastructure
-* Open Source
-* Software Architecture
-
-### 📊 GitHub Stats
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats-ruby-mu.vercel.app/api?username=aamiroo&show_icons=true&theme=radical&hide_border=true" />
+# ``root@aamiroo:~$ whoami``
 
-  <img height="170" src="https://github-readme-stats-ruby-mu.vercel.app/api/top-langs/?username=aamiroo&layout=compact&theme=radical&hide_border=true" />
+### AMIRALI // BACKEND & SYSTEMS ENGINEERING
+
+`Backend Development` · `Linux` · `Networking` · `DevOps`
+
+Building systems. Exploring internals. Automating everything.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF9C)](https://aamiroo.github.io/AboutMe/)
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/aamiroo)
+
+<br/>
+
+<!--<img src="https://skillicons.dev/icons?i=linux,python,fastapi,go,bash,docker,postgres,git,terraform,ansible&theme=dark" alt="Tech Stack" />-->
 
 </div>
-
-### 🔥 GitHub Streak
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=aamiroo&theme=radical&hide_border=true" />
-
-</div>
-
-### 📈 GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aamiroo&theme=react-dark&hide_border=true" />
-
-### 📚 Current Goal
-
-Build practical software, strengthen my fundamentals, and gradually move deeper into **Linux, Networking, Backend, and Systems Programming**.
-
-> `Understand the system, don't just use it.`
 
 ---
+
+```bash
+┌──(amirali㉿localhost)-[~]
+└─$ cat /etc/profile
+
+Name      : Amirali
+Role      : Computer Engineering Student
+Focus     : Backend Engineering & Linux Systems
+Interests : Networking, Automation, Infrastructure
+Mindset   : Understand the system. Don't just use it.
+```
+
+## `01` // ABOUT
+
+I'm a Computer Engineering student focused on backend development, Linux systems, and networking.
+
+I enjoy building practical software, automating infrastructure, and exploring how systems work under the hood.
+
+My goal is to become a strong systems-oriented software engineer — from writing APIs to understanding the infrastructure behind them.
+
+## `02` // TECH STACK
+
+**Backend & Programming**
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00FF9C)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=00FF9C)
+![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=00ADD8)
+![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=00FF9C)
+
+**Infrastructure & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=00FF9C)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
+![Terraform](https://img.shields.io/badge/Terraform-111111?style=flat-square&logo=terraform&logoColor=844FBA)
+![Ansible](https://img.shields.io/badge/Ansible-111111?style=flat-square&logo=ansible&logoColor=EE0000)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
+
+**Databases & Communication**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=00FF9C)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=flat-square&logo=fastapi&logoColor=00FF9C)
+![WebSocket](https://img.shields.io/badge/WebSocket-111111?style=flat-square&logo=socketdotio&logoColor=00FF9C)
+
+
+## `03` // CURRENT OPERATIONS
+
+```text
+[+] Backend architecture & API design
+[+] Linux administration & networking
+[+] Go and systems programming
+[+] Infrastructure as Code
+[+] Self-hosting & virtualization
+```
+
+## `04` // GITHUB TELEMETRY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aamiroo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamiroo&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+[ SYSTEM STATUS: LEARNING / BUILDING / IMPROVING ]
+```
+
+**Think deeper. Build smarter. Understand everything.**
+
+<sub>Amirali · Open Source · Linux · Systems</sub>
+
+</div>
